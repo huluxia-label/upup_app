@@ -53,6 +53,7 @@
     "@dcloudio/uni-quickapp-webview": "^2.0.0-28320200727001",
     "@dcloudio/uni-stat": "^2.0.0-28320200727001",
     "core-js": "^3.6.5",
+    "crypto-js": "^4.0.0",
     "flyio": "^0.6.2",
     "regenerator-runtime": "^0.12.1",
     "vue": "^2.6.11",
@@ -72,6 +73,7 @@
     "@dcloudio/vue-cli-plugin-uni-optimize": "^2.0.0-28320200727001",
     "@dcloudio/webpack-uni-mp-loader": "^2.0.0-28320200727001",
     "@dcloudio/webpack-uni-pages-loader": "^2.0.0-28320200727001",
+    "@types/crypto-js": "^3.1.47",
     "@vue/cli-plugin-babel": "~4.4.0",
     "@vue/cli-plugin-typescript": "*",
     "@vue/cli-service": "~4.4.0",
@@ -82,7 +84,8 @@
     "miniprogram-api-typings": "*",
     "postcss-comment": "^2.0.0",
     "typescript": "^3.0.0",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.6.11",
+    "vuex-persistedstate": "^3.1.0"
   },
   "browserslist": [
     "Android >= 4",

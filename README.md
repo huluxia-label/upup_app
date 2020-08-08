@@ -1,19 +1,4 @@
-# upup
+# 葫芦侠签到
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://d1y.lanzous.com/b054kg7kd
+密码:4f6d
